@@ -19,7 +19,7 @@ This project is a demonstration of working with JavaScript arrays. It showcases 
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/your-username/array-de-objetos.git`
 2. Navigate to the project directory: `cd your-repo`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`

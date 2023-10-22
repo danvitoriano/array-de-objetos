@@ -12,7 +12,13 @@ export default function Home() {
     rm: 1245,
     nome: 'Mariana',
     idade: 22
-  }];
+  },
+  {
+    rm: 1246,
+    nome: 'Roberto',
+    idade: 22
+  },
+];
 
   return (
     <main>

@@ -1,9 +1,5 @@
 # Array de objetos
 
-Teste com arrays javascript.
-
-## Introduction
-
 This project is a demonstration of working with JavaScript arrays. It showcases various operations and techniques for manipulating arrays in JavaScript.
 
 ## Features

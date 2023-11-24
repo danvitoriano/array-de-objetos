@@ -24,12 +24,7 @@ export default function Home() {
       rm: 1247,
       nome: "Fernanda",
       idade: 22,
-    },
-    {
-      rm: 1248,
-      nome: "Gabriel",
-      idade: 22,
-    },
+    }
   ];
 
   return (
